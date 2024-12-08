@@ -1,0 +1,22 @@
+
+Giao diện :
+-có chức năng đăng nhập
+- đơn giản
+-có logo trường công nghệ đông Á
+
+Trang admin
+
+-Xem thông tin khách hàng (ok)
+-Thêm sửa xóa chuyến bay (ok)
+(Admin có thể sửa thời gian địa điểm chuyến bay, sửa số ghế và thời gian đi và đến)
+-thống kê khách hàng và giá tiền từng ngày (chua lam)
+
+Trang khách hàng
+
+-hiện mã khách hàng
+-xem thông tin khách hàng : ngày sinh, họ tên (chua lam) - làm mất 15 phút
+-tìm kiếm chuyến bay theo : ngày tháng năm, ghế hạng nhất hay phổ thông (ok)
+-Đặt ghế xem được thông tin chuyến bay ghế nào trống (ok)
+-Khi đặt ghế hiện lên giá tiền và in mã QR chuyển khoản (ok)
+
+tổng time cần làm tiếp tầm 5 tiếng
